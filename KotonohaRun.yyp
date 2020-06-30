@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "142ef3af-597d-4004-a88f-f3303092a47d",
+            "Value": {
+                "id": "efa91c26-98c4-4a2e-933b-f4bb27e63f55",
+                "resourcePath": "sounds\\soundBGM01\\soundBGM01.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1a06e821-d605-40df-a070-0ca7c774e756",
             "Value": {
                 "id": "3d453541-c3d9-497e-9b5c-e034ea5fc458",
@@ -76,6 +84,14 @@
                 "id": "8f3e0945-646f-4ae6-af67-908290191ca2",
                 "resourcePath": "sprites\\spriteAoiLeftStop\\spriteAoiLeftStop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "30bca106-e79f-4b0d-b4e3-8bf1f1454454",
+            "Value": {
+                "id": "16d69d1a-549e-4e1c-b635-306fbcc528be",
+                "resourcePath": "sounds\\soundJump01\\soundJump01.yy",
+                "resourceType": "GMSound"
             }
         },
         {
