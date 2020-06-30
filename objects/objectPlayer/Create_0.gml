@@ -19,3 +19,5 @@ moveSpeed = 2;
 // 画面外へ行くことによる落下死する高さ
 // キャラ2つ分の余裕を持たせている
 underDeathY =  room_height + sprite_height * 2.5;
+
+canJump = false;
