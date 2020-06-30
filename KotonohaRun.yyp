@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "18ba42fb-7150-4d25-b6ad-d286a0fe3bf5",
+            "Value": {
+                "id": "72488eda-9511-464b-ae97-eb60acd151e8",
+                "resourcePath": "objects\\objectShrimp\\objectShrimp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a06e821-d605-40df-a070-0ca7c774e756",
             "Value": {
                 "id": "3d453541-c3d9-497e-9b5c-e034ea5fc458",
@@ -100,6 +108,14 @@
                 "id": "b7a4e7ea-2753-4c73-877d-7cbcca6f5321",
                 "resourcePath": "views\\3351387d-ad97-47fa-96e1-f4783a16e887.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "431dc885-c269-40f1-bab1-6945c253861e",
+            "Value": {
+                "id": "549b1539-ec54-4d60-9846-5c0b6a94e846",
+                "resourcePath": "sprites\\spriteShrimp\\spriteShrimp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,6 +191,22 @@
             }
         },
         {
+            "Key": "982720cf-2c57-4de1-b2d4-73b78bf63615",
+            "Value": {
+                "id": "ec7782a5-dcfc-47b9-be38-c8369b6deef6",
+                "resourcePath": "sprites\\spriteZunda\\spriteZunda.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "990853e6-dcd1-4a23-8b20-b2323d7b7a93",
+            "Value": {
+                "id": "c962fd7c-95ea-4b6f-bc53-2a051e3b1435",
+                "resourcePath": "objects\\objectIce\\objectIce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d12e509-3d7f-4347-a70e-face16700bb9",
             "Value": {
                 "id": "79852ad4-9b4e-4aab-8633-86a88298540a",
@@ -199,6 +231,14 @@
             }
         },
         {
+            "Key": "aac70c21-c250-49e5-94fa-00402c13cedd",
+            "Value": {
+                "id": "73668429-7658-4ed0-9ba2-8c048e366f95",
+                "resourcePath": "views\\aac70c21-c250-49e5-94fa-00402c13cedd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ac407246-4699-4be1-ab92-68c3d4a4ab19",
             "Value": {
                 "id": "d25d42a5-41af-4d51-beea-cbe0e24a188c",
@@ -220,6 +260,22 @@
                 "id": "26a4d723-4574-4417-9489-833b8035886f",
                 "resourcePath": "views\\c2a124bd-6685-4315-956e-e8a47f441df5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c3a51b7e-5127-4d74-bb6d-34b76e05cba1",
+            "Value": {
+                "id": "0928de9a-92ed-4bcb-805e-47b4444deb5f",
+                "resourcePath": "sounds\\soundGetFood\\soundGetFood.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c4aba449-75eb-404b-9f35-65694eb4e8cb",
+            "Value": {
+                "id": "8049b7d6-e9d3-45ff-a93e-d1276465a5ee",
+                "resourcePath": "sprites\\spriteIce\\spriteIce.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -292,6 +348,14 @@
                 "id": "1b72d9a5-c6ce-41fe-9d02-02e902cecea1",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fb24e689-a46c-4fae-9138-d36e650a73d6",
+            "Value": {
+                "id": "59c5efce-bc6f-4507-bcbb-30af1e433c18",
+                "resourcePath": "objects\\objectZunda\\objectZunda.yy",
+                "resourceType": "GMObject"
             }
         },
         {
