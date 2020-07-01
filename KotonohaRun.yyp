@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "7a81b250-c5a8-477e-b3d4-9df3c0c5885c",
+            "Value": {
+                "id": "f918d946-559d-486f-b65e-507d98d02167",
+                "resourcePath": "objects\\objectFoodGenerator\\objectFoodGenerator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "816f64b9-bfb2-482b-928d-1d762ad5f282",
             "Value": {
                 "id": "0db2f3f9-0ac5-4fb4-bbbd-8bcd6e95e7ff",

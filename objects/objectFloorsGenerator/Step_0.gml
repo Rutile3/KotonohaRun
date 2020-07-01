@@ -2,9 +2,9 @@
 // You can write your code in this editor
 
 
-floorMoveCount += global.floorMoveSpeed;
+floorMoveCount += global.scrollSpeed;
 if (floorMoveCount >= 0) {
-	floorMoveCount -= objectFloor01.sprite_width;
+	floorMoveCount -= sprite_width;
 	
 	if (floorSpan <= 0) {
 		floorX = room_width - floorMoveCount;
@@ -12,7 +12,7 @@ if (floorMoveCount >= 0) {
 		instance_create_layer(floorX, nextFloorY, "InstancesFloor", objectFloor01);	
 		
 		if (floorCount <= 0) {
-			nextFloorY += irandom_range(-2, 2) * sprite_width; // heightだと狂うのでわざとwidth
+			nextFloorY += irandom_range(-2, 2) * sprite_height;
 			nextFloorY = min(nextFloorY, maxFloorY);
 			nextFloorY = max(nextFloorY, minFloorY);
 			
