@@ -3,4 +3,5 @@
 
 global.floorMoveSpeed = 1;
 
-FloorMoveCount = 0;
+floorMoveCount = sprite_height / 2;
+

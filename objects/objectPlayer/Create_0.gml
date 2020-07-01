@@ -1,10 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-// 画像を2倍(16*16ぐらいのおおきさ)
-image_xscale = 2;
-image_yscale = 2;
-
 // ジャンプと落下関連の処理
 // 以下のリンクを参考にパラメータを設定
 // 参考リンク：スーパーマリオのジャンプのアルゴリズム
