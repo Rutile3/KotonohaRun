@@ -7,6 +7,6 @@ floorMoveCount = -(sprite_height / 2);
 
 floorSpan = 0;
 floorCount = 0;
-maxFloorY = sprite_height * 6;
-minFloorY = sprite_height * 2;
-nextFloorY = sprite_height * 4;
+maxFloorY = sprite_height * 7;
+minFloorY = sprite_height * 3;
+nextFloorY = sprite_height * 5;
