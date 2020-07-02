@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "96b43eed-59e7-4c11-953b-4b8d875f02ea",
+            "Value": {
+                "id": "b720f8ba-b111-40b1-85b4-fa47c1ef6289",
+                "resourcePath": "sprites\\spriteSky\\spriteSky.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "982720cf-2c57-4de1-b2d4-73b78bf63615",
             "Value": {
                 "id": "ec7782a5-dcfc-47b9-be38-c8369b6deef6",
@@ -228,6 +236,14 @@
                 "id": "112c438f-b8be-4c0a-8150-778ee0fc04bb",
                 "resourcePath": "rooms\\roomGame\\roomGame.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a662079f-e5ba-4696-8a44-9dc73cd57d06",
+            "Value": {
+                "id": "60d32938-db5a-457f-a6ce-a36326d95005",
+                "resourcePath": "views\\a662079f-e5ba-4696-8a44-9dc73cd57d06.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -268,6 +284,14 @@
                 "id": "26a4d723-4574-4417-9489-833b8035886f",
                 "resourcePath": "views\\c2a124bd-6685-4315-956e-e8a47f441df5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c31cbf20-208f-45c7-86e3-9bfedec8ba08",
+            "Value": {
+                "id": "5799a869-b7b3-47cf-a498-903c1248c7f6",
+                "resourcePath": "sprites\\spriteCloud02\\spriteCloud02.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -316,6 +340,14 @@
                 "id": "f4b2c0dd-ec92-4678-91ec-02e8ed60e5e1",
                 "resourcePath": "views\\d67e9059-68cd-44f8-bea5-0504f7e22d97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7915bf4-ca52-4d95-99a7-9cd051abb8c8",
+            "Value": {
+                "id": "83f730cd-a39e-4379-b29f-7235e0f7ac69",
+                "resourcePath": "sprites\\spriteCloud01\\spriteCloud01.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
