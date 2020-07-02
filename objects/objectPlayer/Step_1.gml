@@ -25,3 +25,17 @@ else {
 		canJump = false;
 	}
 }
+
+if (!canJump) {
+	sprite_index = spriteAoiRightWalk;
+	walkCount = 0;
+}
+else {
+	if (((walkCount div (20 / global.scrollSpeed)) % 2) == 0) {
+		sprite_index = spriteAoiRightStop;
+	}
+	else {
+		sprite_index = spriteAoiRightWalk;
+	}
+	walkCount++;
+}

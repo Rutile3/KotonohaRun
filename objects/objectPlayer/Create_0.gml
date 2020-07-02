@@ -17,6 +17,7 @@ moveSpeed = 2;
 underDeathY =  room_height + sprite_height * 2.5;
 
 canJump = false;
+walkCount = 0;
 
 audio_play_sound(soundBGM01, 0, true);
 	
