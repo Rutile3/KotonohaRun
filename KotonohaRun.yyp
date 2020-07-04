@@ -231,6 +231,22 @@
             }
         },
         {
+            "Key": "73b532e9-c67e-4394-b4c2-efb4f8f4ed21",
+            "Value": {
+                "id": "d4d5d322-f6fd-4004-b80a-f695bcb1f081",
+                "resourcePath": "objects\\objectSurviveTime\\objectSurviveTime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7789efd8-afe3-4396-a2db-2633a3d42e08",
+            "Value": {
+                "id": "2b1c1d31-6303-41f0-8c2f-22e83d2df403",
+                "resourcePath": "objects\\objectTotalSurviveTime\\objectTotalSurviveTime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7a81b250-c5a8-477e-b3d4-9df3c0c5885c",
             "Value": {
                 "id": "f918d946-559d-486f-b65e-507d98d02167",
@@ -450,7 +466,7 @@
             "Key": "e906ed26-f35f-4e9e-9bd8-317129f1de24",
             "Value": {
                 "id": "5036cba6-f5c1-49a5-a469-a8c13bf7b187",
-                "resourcePath": "fonts\\fontScore\\fontScore.yy",
+                "resourcePath": "fonts\\fontGameText\\fontGameText.yy",
                 "resourceType": "GMFont"
             }
         },

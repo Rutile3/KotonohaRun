@@ -4,3 +4,5 @@
 if (y > underDeathY) {
 	room_goto(roomResult);
 }
+
+global.nowSurviveTime++;

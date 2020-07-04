@@ -2,7 +2,7 @@
     "id": "e906ed26-f35f-4e9e-9bd8-317129f1de24",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "fontScore",
+    "name": "fontGameText",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,

@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+global.nowSurviveTime = 0;
+
 // ジャンプと落下関連の処理
 // 以下のリンクを参考にパラメータを設定
 // 参考リンク：スーパーマリオのジャンプのアルゴリズム
@@ -20,4 +22,3 @@ canJump = false;
 walkCount = 0;
 
 audio_play_sound(soundBGM01, 0, true);
-	

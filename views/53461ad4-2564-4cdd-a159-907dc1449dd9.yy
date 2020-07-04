@@ -11,7 +11,8 @@
         "fb24e689-a46c-4fae-9138-d36e650a73d6",
         "7a81b250-c5a8-477e-b3d4-9df3c0c5885c",
         "b4d9fdcf-2f70-4c6d-9097-ed3d55c6de07",
-        "575cf9ee-0341-4882-8276-14b83b3a17c5"
+        "575cf9ee-0341-4882-8276-14b83b3a17c5",
+        "73b532e9-c67e-4394-b4c2-efb4f8f4ed21"
     ],
     "filterType": "GMObject",
     "folderName": "objectRoomGame",
