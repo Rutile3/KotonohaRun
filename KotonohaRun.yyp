@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "11f8fd42-2d1d-468f-97c0-917139823c48",
+            "Value": {
+                "id": "c2bb33bb-474b-429d-a768-c29b7119cd8c",
+                "resourcePath": "objects\\objectTwitter\\objectTwitter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1279fab1-dcd3-40dd-838d-c814ca7be468",
             "Value": {
                 "id": "af6603dc-842a-42ac-8bef-36d58cefceed",
@@ -268,6 +276,14 @@
                 "id": "0db2f3f9-0ac5-4fb4-bbbd-8bcd6e95e7ff",
                 "resourcePath": "views\\816f64b9-bfb2-482b-928d-1d762ad5f282.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8295f093-a56e-47b8-bf9a-06c34248cf84",
+            "Value": {
+                "id": "b1b53ff1-588e-4352-bef4-0eb0e974002a",
+                "resourcePath": "sprites\\spriteTwitter\\spriteTwitter.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
