@@ -8,7 +8,7 @@ global.nowSurviveTime = 0;
 // 参考リンク：スーパーマリオのジャンプのアルゴリズム
 // https://qiita.com/morian-bisco/items/4c659d9f940c7e3a2099
 junpAddVspeed = (30 * 2) / 256;
-fallAddVspeed = (90 * 2) / 256;
+fallAddVspeed = (60 * 2) / 256;
 maxJumpVspeed = -4 * 2;
 maxFallVspeed =  4 * 2;
 
