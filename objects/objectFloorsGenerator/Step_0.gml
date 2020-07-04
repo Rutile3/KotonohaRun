@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
 floorMoveCount += global.scrollSpeed;
 if (floorMoveCount >= 0) {
 	floorMoveCount -= sprite_width;
