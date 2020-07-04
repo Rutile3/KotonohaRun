@@ -10,5 +10,3 @@ floorCount = 0;
 maxFloorY = sprite_height * 7;
 minFloorY = sprite_height * 3;
 nextFloorY = sprite_height * 5;
-
-random_set_seed(time)
