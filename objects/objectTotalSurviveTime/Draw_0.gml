@@ -6,8 +6,8 @@ text += string(global.nowSurviveTime div 60);
 
 draw_set_font(fontResultText);
 draw_set_color(c_black);
-draw_text(25 + 1, 100 + 2, text);
+draw_text(25 + 1, 175 + 2, text);
 
 draw_set_font(fontResultText);
 draw_set_color(c_white);
-draw_text(25 - 1, 100 - 2, text);
+draw_text(25 - 1, 175 - 2, text);
