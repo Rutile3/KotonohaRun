@@ -10,5 +10,6 @@ draw_set_font(fontResultText);
 draw_set_color(c_black);
 draw_text(width + 1, height + 2, text);
 
+draw_set_font(fontResultText);
 draw_set_color(c_white);
 draw_text(width - 2, height - 2, text);
