@@ -127,11 +127,27 @@
             }
         },
         {
+            "Key": "3685fe84-8a5f-40f9-99e8-61f2e8aadc83",
+            "Value": {
+                "id": "27d786f9-9607-4105-8e0c-826766b3cfc2",
+                "resourcePath": "sprites\\spriteAkaneLeftStop\\spriteAkaneLeftStop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3fe3425b-7433-445a-8b23-43e42595e252",
             "Value": {
                 "id": "8cbf37cf-5536-4083-ad94-11af150e04a8",
                 "resourcePath": "objects\\objectTitle\\objectTitle.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "41d05ae5-9084-4663-ad7b-29f8fd276ebc",
+            "Value": {
+                "id": "b1e15b51-0f5a-41a5-b98c-867c2323f4d8",
+                "resourcePath": "sprites\\spriteAkaneRightWalk\\spriteAkaneRightWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -212,6 +228,14 @@
                 "id": "34a22e47-9e35-4559-bf54-964ab3773de3",
                 "resourcePath": "fonts\\fontResultText\\fontResultText.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "6afa4d13-55b5-4257-ba16-d499c16c9c0a",
+            "Value": {
+                "id": "0e1a8c9c-e8ab-420f-8d56-4a02da58fafd",
+                "resourcePath": "sprites\\spriteAkaneRightStop\\spriteAkaneRightStop.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +367,14 @@
             }
         },
         {
+            "Key": "9e7704be-42ad-47ec-832a-396ea15007fd",
+            "Value": {
+                "id": "47e8f43f-cc66-4279-b50a-9b2c6813d3bc",
+                "resourcePath": "views\\9e7704be-42ad-47ec-832a-396ea15007fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a5d110f7-1668-4d95-993f-a040fb05e177",
             "Value": {
                 "id": "112c438f-b8be-4c0a-8150-778ee0fc04bb",
@@ -427,6 +459,14 @@
             "Value": {
                 "id": "bbce62da-49ef-4f00-8005-72dbe03110eb",
                 "resourcePath": "sprites\\spriteFloor01\\spriteFloor01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cafbe588-8878-42e7-b493-8d8724c62a2b",
+            "Value": {
+                "id": "eb6491a4-efe4-425c-957d-942dcf08d8c3",
+                "resourcePath": "sprites\\spriteAkaneLeftWalk\\spriteAkaneLeftWalk.yy",
                 "resourceType": "GMSprite"
             }
         },
