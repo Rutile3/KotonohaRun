@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "f7f69e72-a3be-49de-a59b-9ab48615705b",
+            "Value": {
+                "id": "3af179e8-0f7e-4805-8b03-f60e81cf710b",
+                "resourcePath": "objects\\objectSelectCharacter\\objectSelectCharacter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fb24e689-a46c-4fae-9138-d36e650a73d6",
             "Value": {
                 "id": "59c5efce-bc6f-4507-bcbb-30af1e433c18",

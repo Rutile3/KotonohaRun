@@ -27,15 +27,30 @@ else {
 }
 
 if (!canJump) {
-	sprite_index = spriteAoiRightWalk;
+	if (global.selectCharacter == "Akane") {
+		sprite_index = spriteAkaneRightWalk;
+	}
+	if (global.selectCharacter == "Aoi") {
+		sprite_index = spriteAoiRightWalk;
+	}
 	walkCount = 0;
 }
 else {
-	if (((walkCount div (20 / global.scrollSpeed)) % 2) == 0) {
+	if (((walkCount div (30 / global.scrollSpeed)) % 2) == 0) {
+	if (global.selectCharacter == "Akane") {
+		sprite_index = spriteAkaneRightStop;
+	}
+	if (global.selectCharacter == "Aoi") {
 		sprite_index = spriteAoiRightStop;
 	}
+	}
 	else {
-		sprite_index = spriteAoiRightWalk;
+		if (global.selectCharacter == "Akane") {
+			sprite_index = spriteAkaneRightWalk;
+		}
+		if (global.selectCharacter == "Aoi") {
+			sprite_index = spriteAoiRightWalk;
+		}
 	}
 	walkCount++;
 }
