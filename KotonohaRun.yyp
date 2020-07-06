@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "4e7c5edd-1bbe-4ab8-a169-5fbf354d2fc4",
+            "Value": {
+                "id": "a5861957-2606-4efe-a4ff-32050c0d9f74",
+                "resourcePath": "sounds\\soundGameStart\\soundGameStart.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4fb70a2b-05be-43c2-9160-5ff1daa5db55",
             "Value": {
                 "id": "68c4e709-629e-4067-a7fe-0dd8cda7208f",
@@ -332,6 +340,14 @@
                 "id": "3e97d17f-4e94-4593-aad6-da98743cc8f0",
                 "resourcePath": "views\\8f2bd9ef-4730-4944-b26f-66600f926ed4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93bbb02a-30ee-459e-ab70-6e630e04ef4c",
+            "Value": {
+                "id": "19731b19-5ff2-41f9-a731-ef658703244a",
+                "resourcePath": "sounds\\soundSelect\\soundSelect.yy",
+                "resourceType": "GMSound"
             }
         },
         {
