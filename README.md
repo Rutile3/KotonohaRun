@@ -7,14 +7,14 @@
 
 GameMaker Studio 2で作成した琴葉姉妹が走るゲーム
 
-## 🎨 Character Design
+## 🎨 キャラクターデザイン
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29337073/86615214-1e05b180-bfef-11ea-9f2d-b6eac6c5bad0.png" width=45%>
   <img src="https://user-images.githubusercontent.com/29337073/86615280-34ac0880-bfef-11ea-8c24-2b0685c79b31.png" width=45%>
 </p>
 
-## 📦 Features
+## 🎮 その他プレイ画像
 
 <h3 align="center">- キャラクター選択 -</h3>
 
