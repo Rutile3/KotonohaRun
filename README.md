@@ -5,7 +5,8 @@
 
 <h1 align="center">Kotonoha Run</h1>
 
-GameMaker Studio 2で作成した琴葉姉妹が走るゲーム
+琴葉姉妹がエビフライやチョコミントアイスを食べながら走り続けてるラン&ジャンプ系ゲーム  
+GameMaker Studio 2で作成しました
 
 ## 🎨 キャラクターデザイン
 
