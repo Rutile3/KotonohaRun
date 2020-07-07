@@ -8,6 +8,10 @@
 琴葉姉妹がエビフライやチョコミントアイスを食べながら走り続けてるラン&ジャンプ系ゲーム  
 GameMaker Studio 2で作成しました
 
+## ⬇ ゲームをダウンロード
+
+[Latest release](https://github.com/Rutile3/KotonohaRun/releases/latest)
+
 ## 🎨 キャラクターデザイン
 
 <p align="center">
@@ -31,11 +35,11 @@ GameMaker Studio 2で作成しました
   <img src="https://user-images.githubusercontent.com/29337073/86612974-e5180d80-bfeb-11ea-8b42-c15dfcfc5d48.PNG" width=70%>
 </p>
 
-## 💬 Get source code
+## 💬 ソースコードをクローン
 
 `$ git clone https://github.com/Rutile3/KotonohaRun.git`  
 
-## 👀 Author
+## 👀 外部リンク
 
 - [Github](https://github.com/Rutile3)
 - [Twitter](https://twitter.com/Rutile_Darkness)
