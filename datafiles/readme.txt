@@ -24,19 +24,23 @@
 ・右矢印キー　：右に移動
 ・スペースキー：ジャンプ
 
-2.素材提供
+
+3.素材提供
 スキップモア様：http://www.skipmore.com/
 ピクセルガロー様：https://hpgpixer.jp/
 
-3.スタッフ
+
+4.スタッフ
 ルチルさん（プログラム、グラフィク）
 
-4.連絡先
+
+5.連絡先
 ルチルさん
 Twitter  ：https://twitter.com/Rutile_Darkness
 GitHub   ：https://github.com/Rutile3
 メール　　：Rutile3@outlook.jp
 公式サイト：https://www.rutile3.work/
 
-5.更新履歴
+
+6.更新履歴
 2020/07/08 1.0.0を公開
