@@ -8,7 +8,7 @@ GameMaker Studio 2で作成しました
 
 ## ⬇️ ゲームをダウンロード
 
-[Latest release](https://github.com/Rutile3/KotonohaRun/releases/latest)
+[ダウンロードリンク](https://github.com/Rutile3/KotonohaRun/releases/latest)
 
 ## 🎨 キャラクターデザイン
 
