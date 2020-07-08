@@ -5,3 +5,5 @@ global.selectCharacter = "Akane";
 y = 150 + (sprite_height / 2) - 5;
 
 stepCount = 0;
+
+randomize();
