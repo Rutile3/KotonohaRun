@@ -1,10 +1,21 @@
 plugins:
   - jekyll-relative-links
 relative_links:
-  enabled: true
   collections: true
+  enabled: true
 include:
   - README.md
 theme: jekyll-theme-slate
 kramdown:
   html_to_native: true
+twitter:
+  card: summary
+  username: Rutile_Darkness
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: sprites/spriteAkaneRightWalk/3542318f-0643-4a8d-803e-b484e17712cf.png
+        height: 84
+        width: 86
