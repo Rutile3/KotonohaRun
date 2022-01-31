@@ -23,7 +23,7 @@ GameMaker Studio 2で作成しました
 
 ---
 
-<h3 align="center">- Twitterにシェア-</h3>
+<h3 align="center">- Twitterにシェア -</h3>
 
 ![Twitterにシェア](https://user-images.githubusercontent.com/29337073/86612974-e5180d80-bfeb-11ea-8b42-c15dfcfc5d48.PNG "Twitterにシェア")
 
