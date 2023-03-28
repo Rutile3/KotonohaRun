@@ -33,5 +33,3 @@ GameMaker Studio 2で作成しました
 
 - [Github](https://github.com/Rutile3)
 - [Twitter](https://twitter.com/Rutile_Darkness)
-- [Scrapbox](https://scrapbox.io/RutileProgramming/)
-- [HomePage](https://www.rutile3.work/)
