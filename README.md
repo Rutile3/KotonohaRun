@@ -17,13 +17,11 @@ GameMaker Studio 2で作成しました
 
 ## 🎮 その他プレイ画像
 
-<h3 align="center">- キャラクター選択 -</h3>
+### - キャラクター選択 -
 
 ![キャラクター選択](https://user-images.githubusercontent.com/29337073/86613834-147b4a00-bfed-11ea-92d8-4a1283a31405.gif "キャラクター選択")
 
----
-
-<h3 align="center">- Twitterにシェア -</h3>
+### - Twitterにシェア -
 
 ![Twitterにシェア](https://user-images.githubusercontent.com/29337073/86612974-e5180d80-bfeb-11ea-8b42-c15dfcfc5d48.PNG "Twitterにシェア")
 
