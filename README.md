@@ -32,4 +32,4 @@ GameMaker Studio 2で作成しました
 ## 👀 外部リンク
 
 - [Github](https://github.com/Rutile3)
-- [Twitter](https://twitter.com/Rutile_Darkness)
+- [Twitter](https://twitter.com/Rutile_Sun)
